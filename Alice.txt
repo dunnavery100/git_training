@@ -1,5 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< Updated upstream
-I'm Alice from Alice in Wonderland.
-Changing this file
-Resolving this conflict 
+I'm Alice from Alice and Wonderland
+I'm having tea with the mad hatter this afternoon
+Queen of Hearts! 
